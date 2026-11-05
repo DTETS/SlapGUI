@@ -1,0 +1,26 @@
+# Imaging data (participant scans) - confidential
+DCMs_21_30/
+MRI-sample/
+*.dcm
+*.fld
+*.mat
+
+# Results / measurements
+*.xlsx
+*.xls
+*.csv
+
+# Live scripts carry saved figure output (rendered scans)
+*.mlx
+
+# MATLAB / OS junk
+*.log
+*.asv
+*.autosave
+*.m~
+slprj/
+.DS_Store
+Thumbs.db
+
+# Empty leftover file
+plugins.DCM.loadnewFLD
